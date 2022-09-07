@@ -1,10 +1,10 @@
 <?php 
-include 'includes/db.php';
-include 'includes/header.php';
+include './db.php';
+include './header.php';
 ?>
 
     <!-- Navigation -->
- <?php include 'includes/navigation.php'; ?>
+ <?php include './navigation.php'; ?>
 
     <!-- Page Content -->
     <div class="container">
